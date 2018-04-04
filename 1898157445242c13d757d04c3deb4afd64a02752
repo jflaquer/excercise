@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "e2c45c49_b017fd0d",
+        "filename": "dayOfYear.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1013877
+      },
+      "writtenOn": "2018-04-04T16:26:00Z",
+      "side": 1,
+      "message": "Repetitive addition, can you keep track of the days of month for Jan, Feb, etc and just add Jan + Feb to get number of days up to March?",
+      "revId": "1898157445242c13d757d04c3deb4afd64a02752",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
